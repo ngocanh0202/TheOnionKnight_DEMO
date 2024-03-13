@@ -19,3 +19,15 @@
 <img src="CustomPixel/GIF/tree.gif" width="300px" height="300px" />
 - Sale person
 <img src="CustomPixel/SalesPerson/SalePerson/sprite_0.png" width="300px" height="300px" />
+# BackGrounds
+- Snow
+<img src="CustomPixel/BackGrounds/_snow/snow/sprite_0.png" width="300px" height="300px">  </img>
+- Forest
+<img src="CustomPixel/BackGrounds/Forest/sprite_0.png" width="300px" height="300px" />
+# Weapons
+- Sword
+<img src="CustomPixel/sword/sword_new/sprite_0.png" width="300px" height="300px" />
+- Bow
+<img src="CustomPixel/bow/bow/sprite_0.png" width="300px" height="300px" />
+- Arrow
+<img src="CustomPixel/bow/arrow/arrow.png" width="300px" height="300px" />
